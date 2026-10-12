@@ -86,5 +86,4 @@ chmod +x server.sh client.sh
 - Gestionarea resurselor temporare (creare și ștergere de FIFO-uri)
 - Scrierea de scripturi Bash cu verificări și tratarea erorilor
 
-## Contact
-**Daria Stamin** · [LinkedIn](https://linkedin.com/in/...) · email@exemplu.com
+
